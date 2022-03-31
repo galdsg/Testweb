@@ -1,0 +1,39 @@
+body {
+    background-color: #ffccff
+
+
+}
+table{
+    width: 60%;
+    border-collapse: collapse;
+    align-content: center;
+}
+table, th, td{
+    border: 1px solid;
+    text-align: center;
+}
+th{
+    height: 60px;
+}
+td{
+    height: 30px;
+}
+
+td.td1{
+    font-weight: bold;
+}
+p{
+    width: 30%;
+    font-size: 15px;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 5px purple;
+    font-family: Papyrus, Fantasy;
+    font-size: 45px;
+}
+h2 {
+    font-size: 35px;
+    color: #cc0099
+}
+
